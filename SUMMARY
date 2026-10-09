@@ -1,1 +1,4 @@
+（已并入 HonorAdvancedSettings，请迁移新模块）
 荣耀安装器净化 LSPosed 模块：跳过验证/禁止联网/展示信息/允许降级。4.0 适配 MagicOS 11（Android 17），3.2 适配 MagicOS 10（Android 16）。
+
+Source: https://github.com/VoreulCH/HonorAdvancedSettings
